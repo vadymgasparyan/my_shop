@@ -1,0 +1,11 @@
+.ant-modal {
+    width: 30% !important;
+    min-width: 274px !important;
+    overflow: auto;
+}
+
+.ant-modal-content{
+    display: table;
+    width: 100%;
+    overflow-x: scroll;
+}

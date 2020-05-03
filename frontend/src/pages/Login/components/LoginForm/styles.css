@@ -1,0 +1,14 @@
+.form_style {
+  width: 400px;
+  margin: 100px auto;
+}
+
+.form_footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form_footer button {
+  width: 100%;
+}

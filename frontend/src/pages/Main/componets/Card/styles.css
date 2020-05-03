@@ -1,0 +1,10 @@
+.card {
+    width: 250px;
+    height: 500px;
+    text-align: center;
+}
+
+.card-select-button{
+    margin-top: 24px;
+    width: 80%;
+}

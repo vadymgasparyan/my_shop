@@ -1,0 +1,14 @@
+.create-product-button{
+    margin-top: 24px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.admin-page {
+
+}
+
+.table-image {
+    width: 100px;
+    height: auto;
+}

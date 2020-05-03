@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es6",
+    "strict": true,
+    "moduleResolution": "node",
+    "outDir": "build",
+    "allowJs": true,
+    "checkJs": false,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["/*"]
+    },
+    "plugins": [{"transform": "typescript-transform-paths"}]
+  },
+  "include": [
+    "./"
+  ]
+}

@@ -1,0 +1,6 @@
+.login_page {
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  text-align: center;
+}

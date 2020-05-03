@@ -1,0 +1,12 @@
+.integer{
+    width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 24px auto 0 auto;
+}
+
+.integer-button{
+    width: 40px;
+    height: 40px;
+}
